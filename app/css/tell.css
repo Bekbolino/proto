@@ -1,0 +1,77 @@
+@media (max-width: 431px) {
+    .tell__section {
+        padding-top: 123px;
+    }
+
+    /* Форма регистпации */
+    .tell__form {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        width: 311px;
+        gap: 4px;
+        text-align: center;
+    }
+
+
+
+        /* Заголовок */
+    .tell__title {
+        font-family: Roboto;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 28.8px;
+        margin-bottom: 24px;
+    }
+
+    .tell__input {
+        border: none;
+        border-bottom: 1px solid black;
+        padding: 16px 0px 4px 0px;
+    }
+
+    .tell__input:active {
+        outline: none;
+        box-shadow: -2px 59px 91px -25px #C7F2A4;
+    }
+
+    .tell__input:focus {
+        outline: none;
+        box-shadow: -2px 59px 91px -25px #C7F2A4;
+    }
+
+    .tell__input::placeholder {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: left;
+
+    }
+
+    .tell__arrow {
+        height: 1px;
+        width: 7px;
+        background-color: black;
+    }
+
+
+/* Кнопка  */
+    .tell__btn {
+        margin-top: 24px;
+        text-align: center;
+        background-color: #C7F2A4;
+        padding: 16px 32px 16px 32px;
+        border: none;
+        border-radius: 13px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 20.16px;
+        text-align: center;
+        
+    }
+
+}
+
+/* /* Второй слайд  */
