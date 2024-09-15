@@ -1,0 +1,88 @@
+@media (max-width: 393.998px) {
+
+    .personal_plan__padding {
+        padding: 0 24px 50px;
+        text-align: center;
+    }
+
+    .tell__nav {
+        display: flex;
+        align-items: center;
+        height: 48px;
+        padding: 15px 24px;
+    }
+
+
+
+    .tell__time {
+        color: rgb(27, 27, 27);
+        font-family: Helvetica;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 17px;
+        letter-spacing: -0.3%;
+        text-align: left;
+    }
+
+
+    .tell__nav__svg {
+        display: flex;
+        justify-content: space-around;
+        margin-left: auto;
+    }
+    .tell__svg {
+        margin-left: 5px;
+    }
+
+    .tell__svg__network {
+        background-image: url("../img/Network.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+    }
+
+    .tell__svg__wifi {
+        background-image: url("../img/Wifi.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+        
+        
+    }
+
+    .tell__svg__energy {
+        background-image: url("../img/Battery.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+    }
+
+    .fifth__circle {
+        margin: 0 auto;
+        margin-top: 275px;
+        border-radius: 100%;
+        background-color: rgb(217, 217, 217);
+        width: 205px;
+        height: 205px;
+
+
+    }
+
+    .fifth__title {
+        margin-top: 72px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica Neue;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+
+}
+
+
+/*  */
