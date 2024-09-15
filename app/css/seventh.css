@@ -1,0 +1,209 @@
+@media (max-width: 393.998px) {
+
+    .seventh__title {
+        margin-bottom: 20px;
+        color: rgb(0, 0, 0);
+        font-family: Roboto;
+        font-size: 26px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 3%;
+        text-align: left;
+    }
+
+    .personal_plan__padding {
+        padding: 0 20px 50px;
+        /* text-align: center; */
+    }
+
+    .tell__nav {
+        display: flex;
+        align-items: center;
+        height: 48px;
+        padding: 15px 24px;
+    }
+
+
+
+    .tell__time {
+        color: rgb(27, 27, 27);
+        font-family: Helvetica;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 17px;
+        letter-spacing: -0.3%;
+        text-align: left;
+    }
+
+
+    .tell__nav__svg {
+        display: flex;
+        justify-content: space-around;
+        margin-left: auto;
+    }
+    .tell__svg {
+        margin-left: 5px;
+    }
+
+    .tell__svg__network {
+        background-image: url("../img/Network.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+    }
+
+    .tell__svg__wifi {
+        background-image: url("../img/Wifi.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+        
+        
+    }
+
+    .tell__svg__energy {
+        background-image: url("../img/Battery.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 16px;
+        height: 16px;
+    }
+
+    .seventh__block {
+        background-color: rgb(245, 245, 245);
+        border-radius: 10px;
+        padding: 10px;
+        display: flex;
+        gap: 8px;
+    }
+
+    .first__block {
+        background-color: rgb(199, 242, 164);
+        border-radius: 10px;
+    }
+
+    .second__block {
+        background-color: rgb(144, 149, 161);
+        border-radius: 10px;
+    }
+
+    .block {
+        width: 100%;
+        padding: 15px 25px 26px;
+        color: rgb(0, 0, 0);
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 42px;
+        letter-spacing: 3%;
+        text-align: center;
+    }
+    
+    .block__text {
+        color: rgb(0, 0, 0);
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 15px;
+        letter-spacing: 3%;
+        text-align: center;
+        display: block;
+    }
+
+
+
+    .start__btn {
+        width: 100%;
+        margin-top: 238px;
+        margin-bottom: 193px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 20.16px;
+        background-color: #C7F2A4;
+        padding: 16px 32px;
+        border-radius: 13px;
+        border: none;
+    }
+
+    .seventh__list {
+        list-style: none;
+    }
+
+    .list__item {
+        margin-bottom: 17px;
+    }
+
+    .list__title__btn {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 16px;
+    }
+    
+    .list__title {
+        margin: 0;
+            /* Headlines/20 */
+        color: rgb(27, 27, 27);
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+
+    .list__btn {
+        border-radius: 16px;
+        padding: 8px 12px;
+        background-color: rgb(199, 242, 164);
+    }
+    
+    .list__block {
+        border-radius: 16px;
+        background-color: rgb(248, 248, 248);
+        padding: 8px 16px;
+    }
+
+    .recommend__list {
+        padding: 0;
+        list-style: none;
+
+    }
+
+    .recommend__items {
+        display: grid;
+        grid-template-columns: 85% 10%; /* Первый столбец 90%, второй 10% */
+        grid-template-rows: auto auto;  /* Две строки, высота зависит от содержимого */
+        gap: 10px; 
+    }
+
+    .recommend__up {
+        color: rgb(138, 138, 138);
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 120%;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+
+    .recommend__down {
+        margin: 0;
+        color: rgb(27, 27, 27);
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+    
+
+
+}
+
+
+/*  */
